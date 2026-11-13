@@ -1,0 +1,46 @@
+body {
+    margin: 10px;
+    
+}
+.a {
+    background-color: #5a5a5a;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 50px;
+}
+.b {
+    display: flex;
+    height: 300px;
+}
+.k {
+    background-color: #c4c4c4;
+    width: 20%;
+    padding: 30px;
+}
+.c {
+    background-color: #eeeeee;
+    width: 75%;
+    padding: 25px;
+}
+.c h1 {
+    font-size: 40px;
+
+    
+}
+
+.c p {
+    font-size: 25px;
+    color: #333333;
+}
+.d {
+    background-color: #8b8b8b;
+    color: white;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+}
+.q{
+    text-align: center;
+    color: black;
+}
